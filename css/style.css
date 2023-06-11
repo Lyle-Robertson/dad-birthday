@@ -170,7 +170,7 @@ span{
     width: 90;
     font-size: 3vw;
     text-align: center;
-    border: solid var(--second-bg-color);
+    border: 1.5vw solid var(--second-bg-color);
     border-radius: 5%;
 }
 
