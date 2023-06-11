@@ -54,7 +54,7 @@ span{
 }
 
 .navbar a{
-    font-size: 3vw;
+    font-size: 2.5vw;
     color: var(--text-color);
     font-weight: 500;
     transition: 0.5s;
