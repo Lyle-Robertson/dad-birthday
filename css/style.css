@@ -47,14 +47,14 @@ span{
 
 .navbar{
     /* border: solid yellow; */
-    width: 95%;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
 .navbar a{
-    min-height: 12px;
+    font-size: 3vw;
     color: var(--text-color);
     font-weight: 500;
     transition: 0.5s;
